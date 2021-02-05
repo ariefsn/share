@@ -15,7 +15,7 @@
   }, {
     "name": "Me App",
     "description": "Online resume, and portfolio.",
-    "url": null,
+    "url": "http://ariefsn.my.id",
     "repository": null,
     "images": [],
     "stacks": ["vue", "vuetify"]
