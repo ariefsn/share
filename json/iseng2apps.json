@@ -17,7 +17,15 @@
     "description": "Online resume, and portfolio.",
     "url": "http://ariefsn.my.id",
     "repository": null,
-    "images": [],
+    "images": [{
+      "url": "https://raw.githubusercontent.com/ariefsn/share/main/images/me-app/%5BMe%5D%20Home.png"
+    }, {
+      "url": "https://raw.githubusercontent.com/ariefsn/share/main/images/me-app/%5BMe%5D%20Options.png"
+    }, {
+      "url": "https://raw.githubusercontent.com/ariefsn/share/main/images/me-app/%5BMe%5D%20Portfolio.png"
+    }, {
+      "url": "https://raw.githubusercontent.com/ariefsn/share/main/images/me-app/%5BMe%5D%20Resume.png"
+    }],
     "stacks": ["vue", "vuetify"]
   }]
 }
