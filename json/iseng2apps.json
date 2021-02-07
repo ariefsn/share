@@ -36,7 +36,7 @@
     "stacks": ["go", "mongodb"]
   }, {
     "name": "Flutter Toolkit",
-    "description": "Simple toolkit for flutter. Some APIs are ready to help manipulate map, string, random, sleep, and media query",
+    "description": "Simple toolkit for flutter. Some APIs are ready to help manipulate map, string, random, sleep, and media query.",
     "url": "https://pub.dev/packages/toolkit",
     "repository": "https://github.com/ariefsn/flutter-toolkit",
     "images": [],
