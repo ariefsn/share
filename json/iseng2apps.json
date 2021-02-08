@@ -13,7 +13,8 @@
     }, {
       "url": "https://raw.githubusercontent.com/ariefsn/share/main/images/me-app/%5BMe%5D%20Resume.png"
     }],
-    "stacks": ["vue", "vuetify"]
+    "stacks": ["vue", "vuetify"],
+    "icon": "https://raw.githubusercontent.com/ariefsn/share/main/images/stacks/vue.png"
   }, {
     "name": "Highlighter",
     "description": "Just a simple website for code highlighter, built with Vue, Vuetify, and API by Mas Jefry (DANA).",
@@ -26,27 +27,31 @@
     }, {
       "url": "https://raw.githubusercontent.com/ariefsn/code-highlight/master/gallery/%5Bhighlighter%5D%20my-codes.png"
     }],
-    "stacks": ["vue", "vuetify"]
+    "stacks": ["vue", "vuetify"],
+    "icon": "https://raw.githubusercontent.com/ariefsn/share/main/images/stacks/vue.png"
   }, {
     "name": "GoM",
     "description": "MongoDB library for go.",
     "url": "https://github.com/ariefsn/gom",
     "repository": "https://github.com/ariefsn/gom",
     "images": [],
-    "stacks": ["go", "mongodb"]
+    "stacks": ["go", "mongodb"],
+    "icon": "https://raw.githubusercontent.com/ariefsn/share/main/images/stacks/golang.png"
   }, {
     "name": "Flutter Toolkit",
     "description": "Simple toolkit for flutter. Some APIs are ready to help manipulate map, string, random, sleep, and media query.",
     "url": "https://pub.dev/packages/toolkit",
     "repository": "https://github.com/ariefsn/flutter-toolkit",
     "images": [],
-    "stacks": ["dart", "flutter"]
+    "stacks": ["dart", "flutter"],
+    "icon": "https://raw.githubusercontent.com/ariefsn/share/main/images/stacks/flutter.png"
   }, {
     "name": "Meals Catalogue",
     "description": "Dicoding flutter submission.",
     "url": "https://github.com/ariefsn/meals_catalogue",
     "repository": "https://github.com/ariefsn/meals_catalogue",
     "images": [],
-    "stacks": ["dart", "flutter"]
+    "stacks": ["dart", "flutter"],
+    "icon": "https://raw.githubusercontent.com/ariefsn/share/main/images/stacks/flutter.png"
   }]
 }
