@@ -1,5 +1,13 @@
 {
   "items": [{
+    "name": "Iseng2 App",
+    "description": "Apps gallery.",
+    "url": "https://iseng2.my.id",
+    "repository": "https://gitlab.com/ariefsn/iseng2-web",
+    "images": [],
+    "stacks": ["vue3", "tailwind"],
+    "icon": "https://raw.githubusercontent.com/ariefsn/share/main/images/stacks/vue.png"
+  }, {
     "name": "Me App",
     "description": "Online resume, and portfolio.",
     "url": "http://ariefsn.my.id",
@@ -32,7 +40,7 @@
   }, {
     "name": "GoM",
     "description": "MongoDB library for go.",
-    "url": "https://github.com/ariefsn/gom",
+    "url": null,
     "repository": "https://github.com/ariefsn/gom",
     "images": [],
     "stacks": ["go", "mongodb"],
@@ -48,7 +56,7 @@
   }, {
     "name": "Meals Catalogue",
     "description": "Dicoding flutter submission.",
-    "url": "https://github.com/ariefsn/meals_catalogue",
+    "url": null,
     "repository": "https://github.com/ariefsn/meals_catalogue",
     "images": [],
     "stacks": ["dart", "flutter"],
