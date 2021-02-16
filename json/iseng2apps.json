@@ -5,7 +5,7 @@
     "url": "https://iseng2.my.id",
     "repository": "https://gitlab.com/ariefsn/iseng2-web",
     "images": [{
-      "url": "https://github.com/ariefsn/share/blob/main/images/iseng2-app/Iseng2%20App.png"
+      "url": "https://raw.githubusercontent.com/ariefsn/share/main/images/iseng2-app/Iseng2%20App.png"
     }],
     "stacks": ["vue3", "tailwind"],
     "icon": "https://raw.githubusercontent.com/ariefsn/share/main/images/stacks/vue.png"
