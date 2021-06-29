@@ -31,5 +31,27 @@
   }, {
     "text": "Mobile",
     "value": "mobile"
+  }],
+  "degrees": [{
+    "text": "Associate Degree",
+    "value": "associate"
+  }, {
+    "text": "Bachelor's Degree",
+    "value": "bachelor"
+  }, {
+    "text": "Doctoral Degree",
+    "value": "doctoral"
+  }, {
+    "text": "Master's Degree",
+    "value": "master"
+  }, {
+    "text": "Professional Degree",
+    "value": "professional"
+  }, {
+    "text": "Specialist Degree",
+    "value": "specialist"
+  }, {
+    "text": "Undergraduate Degree",
+    "value": "undergraduate"
   }]
 }
