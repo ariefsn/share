@@ -1,0 +1,35 @@
+{
+  "contacts": [{
+    "text": "Email",
+    "value": "email"
+  }, {
+    "text": "Link",
+    "value": "link"
+  }, {
+    "text": "Phone",
+    "value": "phone"
+  }],
+  "medias": [{
+    "text": "Audio",
+    "value": "audio"
+  }, {
+    "text": "Image",
+    "value": "image"
+  }, {
+    "text": "Video",
+    "value": "video"
+  }],
+  "skills": [{
+    "text": "Backend",
+    "value": "backend"
+  }, {
+    "text": "Database",
+    "value": "database"
+  }, {
+    "text": "Frontend",
+    "value": "frontend"
+  }, {
+    "text": "Mobile",
+    "value": "mobile"
+  }]
+}
