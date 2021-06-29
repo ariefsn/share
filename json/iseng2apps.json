@@ -63,5 +63,29 @@
     "images": [],
     "stacks": ["dart", "flutter"],
     "icon": "https://raw.githubusercontent.com/ariefsn/share/main/images/stacks/flutter.png"
+  }, {
+    "name": "Superhero API Dart",
+    "description": "Wrapper of Superhero API for Dart.",
+    "url": "https://pub.dev/packages/superhero_api",
+    "repository": "https://github.com/ariefsn/superhero-api-dart",
+    "images": [],
+    "stacks": ["dart", "flutter"],
+    "icon": "https://raw.githubusercontent.com/ariefsn/share/main/images/stacks/flutter.png"
+  }, {
+    "name": "Go BMKG",
+    "description": "Parser for BMKG Data (Weather and Earthquake).",
+    "url": null,
+    "repository": "https://github.com/ariefsn/go-bmkg",
+    "images": [],
+    "stacks": ["go"],
+    "icon": "https://raw.githubusercontent.com/ariefsn/share/main/images/stacks/golang.png"
+  }, {
+    "name": "Go Ina Area",
+    "description": "Generate Area in Indonesia (Offline) :). Consist of 34 Provinces, 499 Districts, 6878 Sub Districts, 79702 Urban Villages.",
+    "url": null,
+    "repository": "https://github.com/ariefsn/ina-area",
+    "images": [],
+    "stacks": ["go"],
+    "icon": "https://raw.githubusercontent.com/ariefsn/share/main/images/stacks/golang.png"
   }]
 }
