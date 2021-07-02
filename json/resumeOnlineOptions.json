@@ -31,6 +31,9 @@
   }, {
     "text": "Mobile",
     "value": "mobile"
+  }, {
+    "text": "Platform",
+    "value": "platform"
   }],
   "degrees": [{
     "text": "Associate Degree",
