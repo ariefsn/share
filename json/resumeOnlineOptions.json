@@ -8,6 +8,9 @@
   }, {
     "text": "Phone",
     "value": "phone"
+  }, {
+    "text": "Skype",
+    "value": "skype"
   }],
   "medias": [{
     "text": "Audio",
