@@ -8,6 +8,9 @@
   }, {
     "text": "Phone",
     "value": "phone"
+  }, {
+    "text": "Skype",
+    "value": "skype"
   }],
   "medias": [{
     "text": "Audio",
@@ -31,6 +34,9 @@
   }, {
     "text": "Mobile",
     "value": "mobile"
+  }, {
+    "text": "Platform",
+    "value": "platform"
   }],
   "degrees": [{
     "text": "Associate Degree",
